@@ -15,7 +15,7 @@ virtuabotixRTC myRTC(A0, A1, A2);
 double M,Y,D,MN,H,S;
 double A,B;
 double location =32.88;//your longtitude.
-double location2 =39.933363//your latitude.
+double location2 =39.933363;//your latitude.
 double LST_degrees;//variable to store local side real time(LST) in degrees.
 double LST_hours;//variable to store local side real time(LST) in decimal hours.
 unsigned long timer = 0;
